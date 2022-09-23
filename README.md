@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KSSHARSHA
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently in my B.Tech 3rd year
+- 🌱 I’m currently in my B.Tech final year
 - 📫 How to reach me ? 
 - Send a mail to sreeharsha1605@gmail.com
 
